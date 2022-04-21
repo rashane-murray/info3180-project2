@@ -9,3 +9,8 @@ PyJWT==2.3.0
 python-dotenv==0.19.2
 Werkzeug==2.0.3
 WTForms==3.0.1
+Flask-Login
+PyJWT
+Flask-SQLAlchemy
+psycopg2
+Flask-Migrate
